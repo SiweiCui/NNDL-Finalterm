@@ -1,0 +1,1 @@
+python run_nerf.py --config config_yinxiang.txt

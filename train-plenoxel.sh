@@ -1,0 +1,1 @@
+svox2/opt/launch.sh yinxiang 0 3D-finalterm/data -c svox2/opt/configs/custom_alt.json
